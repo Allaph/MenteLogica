@@ -1,0 +1,1 @@
+print ("Seja bem vindo ao método Mente Lógica, a mudança começa hoje.")
